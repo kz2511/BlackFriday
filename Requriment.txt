@@ -1,0 +1,6 @@
+1) Numpy 
+2) Pandas
+3) Sckit-learn == 0.21.3
+4) Flask For Website 
+5) Xampp for mysql 
+6)Tableau public for visualization
